@@ -1,0 +1,9 @@
+Sitemap https://kreative.agency/index.html
+
+User-agent: *
+Disallow: /.git/
+Disallow: /css/
+Disallow: /js/
+Disallow: /images/
+Disallow: /.htaccess
+Disallow: /README.md
